@@ -337,16 +337,16 @@ export const ChatInput = ({
       </div>
       <div className="px-3 pt-2 pb-3 text-center text-[12px] text-black/50 dark:text-white/50 md:px-4 md:pt-3 md:pb-6">
         <a
-          href="https://github.com/ivanfioravanti/chatbot-ollama"
+          href="https://www.eurospital.com"
           target="_blank"
           rel="noreferrer"
           className="underline"
         >
-          Chatbot Ollama
+          IA Eurospital
         </a>
         .{' '}
         {t(
-          "Chatbot Ollama is an advanced chatbot kit for Ollama models aiming to mimic ChatGPT's interface and functionality.",
+          "IA Eurospital è un kit chatbot avanzato che mira ad imitare l'interfaccia e le funzionalità di ChatGPT.",
         )}
       </div>
     </div>
